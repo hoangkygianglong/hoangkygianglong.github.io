@@ -21,7 +21,7 @@ sass:
 title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: https://hoangkygianglong.github.io/
+url: "https://hoangkygianglong.github.io"
 baseurl: "https://hoangkygianglong.github.io"
 
 google_analytics: UA-52446115-1
